@@ -1,0 +1,26 @@
+Atividade 1:
+
+Organizem-se em grupos (máximo 4 pessoas);
+Realizem pesquisas sobre os tipos de teste para responder a seguinte lista de exercícios (busquem fontes confiáveis)
+
+https://docs.google.com/document/d/1GyRtUUeDCQDPrWZehGnlGTCfwglm_rKTNZKtlDEglCM/edit?usp=sharing
+
+Atividade 2:
+
+Elaborar uma especificação de casos te Teste para o app que calcula horas:
+Testar as seguintes somas:
+00:20 + 01:20 - Resultado esperado é 01:40
+01:30 + 02:30 - Resultado esperado é 04:00
+02:40 + 01:90 - Resultado esperado é 05:10
+Testas as seguintes subtrações:
+12:40 - 07:25 - Resultado esperado é 05:15
+02:05 - 01:70 - Resultado esperado é 00:05
+01:00 - 00:20 - Resultado esperado é 00:40
+00:400 - 02:60 - Resultado esperado é 03:40
+00:200 - 01:00 - Resultado esperado é 02:20
+Documentar todas as entradas testadas e saídas obtidas.
+Obs: esta atividade não tem como objetivo corrigir as falhas do app (não mexer no código), apenas testar suas funcionalidades (requisitos funcionais).
+
+https://docs.google.com/document/d/1dxVjX2GgBHz1rmk6b8siC7ZVBx8mhQkAzKGDi2Ddd_o/edit?usp=sharing
+
+Autoria:
